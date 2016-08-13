@@ -8,5 +8,5 @@ This is intended to be a ruby CLI tool for the hackers diet.  I hope to eventual
 
 ## How to use it?
 * `hackers_diet` will prompt you to enter data
-* `hackers_diet --graph will generate graphs based on your already existing data.
+* `hackers_diet --graph` will generate graphs based on your already existing data.
 
